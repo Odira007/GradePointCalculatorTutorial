@@ -1,0 +1,5 @@
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/publish/GradePointCalculator
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/publish/GradePointCalculator.dll
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/publish/GradePointCalculator.runtimeconfig.json
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/publish/GradePointCalculator.pdb
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/publish/GradePointCalculator.deps.json

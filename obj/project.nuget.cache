@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sztBK08rkCd7Njy1ydMKKJf5erl8G/dKje0WHhxS6TYXmlePiHzjnHHrPZKMekI3sWAKqPgyYF85ajdfke/wTw==",
+  "success": true,
+  "projectFilePath": "/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/GradePointCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/odiraikewelugo/.nuget/packages/packaging.targets/0.1.220/packaging.targets.0.1.220.nupkg.sha512",
+    "/Users/odiraikewelugo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

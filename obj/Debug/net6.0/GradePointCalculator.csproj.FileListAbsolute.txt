@@ -1,0 +1,17 @@
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/GradePointCalculator
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/GradePointCalculator.deps.json
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/GradePointCalculator.runtimeconfig.json
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/GradePointCalculator.dll
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/GradePointCalculator.pdb
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/bin/Debug/net6.0/runtimes/win7-x64/native/lzma.dll
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.csproj.AssemblyReference.cache
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.AssemblyInfoInputs.cache
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.AssemblyInfo.cs
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.csproj.CoreCompileInputs.cache
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.csproj.CopyComplete
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.dll
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/refint/GradePointCalculator.dll
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.pdb
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/GradePointCalculator.genruntimeconfig.cache
+/Users/odiraikewelugo/Projects/GradePointCalculator/GradePointCalculator/obj/Debug/net6.0/ref/GradePointCalculator.dll
